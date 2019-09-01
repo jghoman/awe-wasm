@@ -14,5 +14,6 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 * [Lin Clark](https://twitter.com/linclark) - Mozilla developer focusing on WebAssembly and Rust who has written many great articles linked above.
 * [Till Schneidereit](https://twitter.com/tschneidereit) - Manager at Mozilla working on the WebAssembly efforts.
 
-## Books
+## Books and other resources
+* [WASM Weekly](https://wasmweekly.news/) - A weekly newsletter (with all its previous issues archived online) of WASM-related news.
 * [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) by [Kevin Hoffman](https://twitter.com/KevinHoffman).  Covers WebAssembly from the ground up with a focus on using Rust to write apps.
