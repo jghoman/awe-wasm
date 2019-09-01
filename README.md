@@ -8,7 +8,7 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 * [WASM by example](https://wasmbyexample.dev/) - [Aaron Turner](https://aaronthedev.com/) has built a tutorial that walks through WASM from first concepts to workings with graphics, with examples in both Rust and Typescript.
 
 ## Frameworks and libraries
-* [Smithy.rs](https://www.smithy.rs/) - Rust framework for writing idiomatic WebAssembly web applications.
+* [Smithy.rs](https://www.smithy.rs/) ![Activity badge](https://img.shields.io/github/commit-activity/m/rbalicki2/smithy)- Rust framework for writing idiomatic WebAssembly web applications.
 
 ## Prominent community members
 * [Lin Clark](https://twitter.com/linclark) - Mozilla developer focusing on WebAssembly and Rust who has written many great articles linked above.
@@ -17,3 +17,6 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 ## Books and other resources
 * [WASM Weekly](https://wasmweekly.news/) - A weekly newsletter (with all its previous issues archived online) of WASM-related news.
 * [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) by [Kevin Hoffman](https://twitter.com/KevinHoffman).  Covers WebAssembly from the ground up with a focus on using Rust to write apps.
+
+## Runtimes
+* [WASM Micro Runtime](https://github.com/intel/wasm-micro-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/intel/wasm-micro-runtime) - Intel has released a a runtime focused on minimizing its footprint and running on a wide variety of systems.
