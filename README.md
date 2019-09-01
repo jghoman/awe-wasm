@@ -20,3 +20,4 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 
 ## Runtimes
 * [WASM Micro Runtime](https://github.com/intel/wasm-micro-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/intel/wasm-micro-runtime) - Intel has released a a runtime focused on minimizing its footprint and running on a wide variety of systems.
+* [Lucet](https://github.com/fastly/lucet)  ![Activity badge](https://img.shields.io/github/commit-activity/m/fastly/lucet) - [Fastly](https://www.fastly.com/)'s compiler and runtime designed to be embedded within applications.
