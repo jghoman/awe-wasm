@@ -19,5 +19,5 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 * [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) by [Kevin Hoffman](https://twitter.com/KevinHoffman).  Covers WebAssembly from the ground up with a focus on using Rust to write apps.
 
 ## Runtimes
-* [WASM Micro Runtime](https://github.com/intel/wasm-micro-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/intel/wasm-micro-runtime) - Intel has released a a runtime focused on minimizing its footprint and running on a wide variety of systems.
-* [Lucet](https://github.com/fastly/lucet)  ![Activity badge](https://img.shields.io/github/commit-activity/m/fastly/lucet) - [Fastly](https://www.fastly.com/)'s compiler and runtime designed to be embedded within applications.
+* [WASM Micro Runtime](https://github.com/intel/wasm-micro-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/intel/wasm-micro-runtime) ![Language](https://img.shields.io/github/languages/top/intel/wasm-micro-runtime) - Intel has released a a runtime focused on minimizing its footprint and running on a wide variety of systems.
+* [Lucet](https://github.com/fastly/lucet)  ![Activity badge](https://img.shields.io/github/commit-activity/m/fastly/lucet) ![Language](https://img.shields.io/github/languages/top/fastly/lucet) - [Fastly](https://www.fastly.com/)'s compiler and runtime designed to be embedded within applications.
