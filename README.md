@@ -25,7 +25,8 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 * [Till Schneidereit](https://twitter.com/tschneidereit) - Manager at Mozilla working on the WebAssembly efforts.
 
 ## Books and other resources
-* [WASM Weekly](https://wasmweekly.news/) - A weekly newsletter (with all its previous issues archived online) of WASM-related news.
+* [awesome-wasm-langs](https://github.com/appcypher/awesome-wasm-langs) - [Steve Akinyemi](https://twitter.com/theappcypher) maintains a truly awesome list of languages that are able to compile down to WASM.
+* [WASM Weekly](https://wasmweekly.news/) - A weekly newsletter (with all its previous issues archived online) of WASM-related news. The items are also posted to the newsletter's [Twitter account](https://twitter.com/WasmWeekly).
 * [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) by [Kevin Hoffman](https://twitter.com/KevinHoffman).  Covers WebAssembly from the ground up with a focus on using Rust to write apps.
 
 ## Runtimes
