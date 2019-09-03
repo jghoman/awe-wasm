@@ -19,5 +19,37 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 * [Programming WebAssembly with Rust](https://pragprog.com/book/khrust/programming-webassembly-with-rust) by [Kevin Hoffman](https://twitter.com/KevinHoffman).  Covers WebAssembly from the ground up with a focus on using Rust to write apps.
 
 ## Runtimes
+*n.b. Many entries for this list were originally sourced from the very useful [awesome-wasm-runtimes](https://github.com/appcypher/awesome-wasm-runtimes) by [Steve Akinyemi](https://twitter.com/theappcypher).*
+### **C**
 * [WASM Micro Runtime](https://github.com/intel/wasm-micro-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/intel/wasm-micro-runtime) ![Language](https://img.shields.io/github/languages/top/intel/wasm-micro-runtime) - Intel has released a a runtime focused on minimizing its footprint and running on a wide variety of systems.
+* [Nebulet](https://github.com/nebulet/nebulet) ![Activity badge](https://img.shields.io/github/commit-activity/m/nebulet/nebulet) ![Language](https://img.shields.io/github/languages/top/nebulet/nebulet)
+* [WasmVM](https://github.com/LuisHsu/WasmVM) ![Activity badge](https://img.shields.io/github/commit-activity/m/LuisHsu/WasmVM) ![Language](https://img.shields.io/github/languages/top/LuisHsu/WasmVM)
+* [InNative](https://github.com/innative-sdk/innative) ![Activity badge](https://img.shields.io/github/commit-activity/m/innative-sdk/innative) ![Language](https://img.shields.io/github/languages/top/innative-sdk/innative)
+* [EOSVM](https://github.com/EOSIO/eos-vm) ![Activity badge](https://img.shields.io/github/commit-activity/m/EOSIO/eos-vm) ![Language](https://img.shields.io/github/languages/top/EOSIO/eos-vm)
+* [WasmRT](https://github.com/rhitchcock/wasmrt) ![Activity badge](https://img.shields.io/github/commit-activity/m/rhitchcock/wasmrt) ![Language](https://img.shields.io/github/languages/top/rhitchcock/wasmrt)
+* [m3](https://github.com/soundandform/m3) ![Activity badge](https://img.shields.io/github/commit-activity/m/soundandform/m3) ![Language](https://img.shields.io/github/languages/top/soundandform/m3)
+* [wac](https://github.com/kanaka/wac) ![Activity badge](https://img.shields.io/github/commit-activity/m/kanaka/wac) ![Language](https://img.shields.io/github/languages/top/kanaka/wac)
+* [WAMR](https://github.com/intel/wasm-micro-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/intel/wasm-micro-runtime) ![Language](https://img.shields.io/github/languages/top/intel/wasm-micro-runtime)
+* [VMIR](https://github.com/andoma/vmir) ![Activity badge](https://img.shields.io/github/commit-activity/m/andoma/vmir) ![Language](https://img.shields.io/github/languages/top/andoma/vmir)
+* [Wasm JIT Prototype](https://github.com/WebAssembly/wasm-jit-prototype) ![Activity badge](https://img.shields.io/github/commit-activity/m/WebAssembly/wasm-jit-prototype) ![Language](https://img.shields.io/github/languages/top/WebAssembly/wasm-jit-prototype)
+* [wasmer](https://github.com/wasmerio/wasmer) ![Activity badge](https://img.shields.io/github/commit-activity/m/wasmerio/wasmer) ![Language](https://img.shields.io/github/languages/top/wasmerio/wasmer)
+* [wasmo](https://github.com/appcypher/wasmo) ![Activity badge](https://img.shields.io/github/commit-activity/m/appcypher/wasmo) ![Language](https://img.shields.io/github/languages/top/appcypher/wasmo)
+* [Swam](https://github.com/satabin/swam) ![Activity badge](https://img.shields.io/github/commit-activity/m/satabin/swam) ![Language](https://img.shields.io/github/languages/top/satabin/swam)
+* [CMM of wasm](https://github.com/SimonJF/cmm_of_wasm) ![Activity badge](https://img.shields.io/github/commit-activity/m/SimonJF/cmm_of_wasm) ![Language](https://img.shields.io/github/languages/top/SimonJF/cmm_of_wasm)
+* [Asmble](https://github.com/cretz/asmble) ![Activity badge](https://img.shields.io/github/commit-activity/m/cretz/asmble) ![Language](https://img.shields.io/github/languages/top/cretz/asmble)
+* [py-wasm](https://github.com/ethereum/py-wasm) ![Activity badge](https://img.shields.io/github/commit-activity/m/ethereum/py-wasm) ![Language](https://img.shields.io/github/languages/top/ethereum/py-wasm)
+* [Warpy](https://github.com/kanaka/warpy) ![Activity badge](https://img.shields.io/github/commit-activity/m/kanaka/warpy) ![Language](https://img.shields.io/github/languages/top/kanaka/warpy)
+* [Life](https://github.com/perlin-network/life) ![Activity badge](https://img.shields.io/github/commit-activity/m/perlin-network/life) ![Language](https://img.shields.io/github/languages/top/perlin-network/life)
+* [Wagon](https://github.com/go-interpreter/wagon) ![Activity badge](https://img.shields.io/github/commit-activity/m/go-interpreter/wagon) ![Language](https://img.shields.io/github/languages/top/go-interpreter/wagon)
+* [Wasm Runtime](https://github.com/kgtkr/wasm-runtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/kgtkr/wasm-runtime) ![Language](https://img.shields.io/github/languages/top/kgtkr/wasm-runtime)
+* [FDVM](https://github.com/funcdef/fdvm) ![Activity badge](https://img.shields.io/github/commit-activity/m/funcdef/fdvm) ![Language](https://img.shields.io/github/languages/top/funcdef/fdvm)
+* [WebAssembly](https://github.com/dcodeIO/webassembly) ![Activity badge](https://img.shields.io/github/commit-activity/m/dcodeIO/webassembly) ![Language](https://img.shields.io/github/languages/top/dcodeIO/webassembly)
+* [wasmtime](https://github.com/CraneStation/wasmtime) ![Activity badge](https://img.shields.io/github/commit-activity/m/CraneStation/wasmtime) ![Language](https://img.shields.io/github/languages/top/CraneStation/wasmtime)
+* [Lucet](https://github.com/fastly/lucet) ![Activity badge](https://img.shields.io/github/commit-activity/m/fastly/lucet) ![Language](https://img.shields.io/github/languages/top/fastly/lucet)
+* [WAKit](https://github.com/akkyie/WAKit) ![Activity badge](https://img.shields.io/github/commit-activity/m/akkyie/WAKit) ![Language](https://img.shields.io/github/languages/top/akkyie/WAKit)
+* [Ice Core](https://github.com/losfair/IceCore) ![Activity badge](https://img.shields.io/github/commit-activity/m/losfair/IceCore) ![Language](https://img.shields.io/github/languages/top/losfair/IceCore)
+* [wasmi](https://github.com/paritytech/wasmi) ![Activity badge](https://img.shields.io/github/commit-activity/m/paritytech/wasmi) ![Language](https://img.shields.io/github/languages/top/paritytech/wasmi)
+* [serverless-wasm](https://github.com/Geal/serverless-wasm) ![Activity badge](https://img.shields.io/github/commit-activity/m/Geal/serverless-wasm) ![Language](https://img.shields.io/github/languages/top/Geal/serverless-wasm)
+* [Motor](https://github.com/penberg/motor) ![Activity badge](https://img.shields.io/github/commit-activity/m/penberg/motor) ![Language](https://img.shields.io/github/languages/top/penberg/motor)
+* [JumpJet](https://github.com/jawm/jumpjet) ![Activity badge](https://img.shields.io/github/commit-activity/m/jawm/jumpjet) ![Language](https://img.shields.io/github/languages/top/jawm/jumpjet)
 * [Lucet](https://github.com/fastly/lucet)  ![Activity badge](https://img.shields.io/github/commit-activity/m/fastly/lucet) ![Language](https://img.shields.io/github/languages/top/fastly/lucet) - [Fastly](https://www.fastly.com/)'s compiler and runtime designed to be embedded within applications.
