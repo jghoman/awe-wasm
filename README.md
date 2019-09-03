@@ -2,6 +2,15 @@
 # awe-wasm
 awe-wasm = awesome WASM - repo for tracking WASM related resources I come across while bringing myself up to speed on this new ecosystem.
 
+## Contents
+- [Introductory articles on WASM and its ecosystem](#introductory-articles-on-wasm-and-its-ecosystem)
+- [Tutorials](#tutorials)
+- [Introductions and tutorials](#introductions-and-tutorials)
+- [Frameworks and libraries](#frameworks-and-libraries)
+- [Prominent community members](#prominent-community-members)
+- [Books and other resources](#books-and-other-resources)
+- [Runtimes](#runtimes)
+
 ## Introductory articles on WASM and its ecosystem
 * [Standardizing WASI: A system interface to run WebAssembly outside the web](https://hacks.mozilla.org/2019/03/standardizing-wasi-a-webassembly-system-interface/), 2019-03-27 - [Lin Clark](https://twitter.com/linclark) walks throuh WASI (WebAssembly System Interface) - a proposed standard library system for WASM designed to provide core, modular libraries for WASM apps.  The proposal is being tracked [here](https://wasi.dev/).
 
