@@ -1,3 +1,4 @@
+[<img src="https://github.com/jghoman/awe-wasm/raw/master/wasm-logo.png" align="right">](https://webassembly.org/)
 # awe-wasm
 awe-wasm = awesome WASM - repo for tracking WASM related resources I come across while bringing myself up to speed on this new ecosystem.
 
