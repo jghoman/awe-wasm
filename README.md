@@ -7,6 +7,7 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 - [Tutorials](#tutorials)
 - [Introductions and tutorials](#introductions-and-tutorials)
 - [Frameworks and libraries](#frameworks-and-libraries)
+- [Cool use cases and applications](#cool-use-cases-and-applications)
 - [Prominent community members](#prominent-community-members)
 - [Books and other resources](#books-and-other-resources)
 - [Runtimes](#runtimes)
@@ -19,6 +20,9 @@ awe-wasm = awesome WASM - repo for tracking WASM related resources I come across
 
 ## Frameworks and libraries
 * [Smithy.rs](https://www.smithy.rs/) ![Activity badge](https://img.shields.io/github/commit-activity/m/rbalicki2/smithy)- Rust framework for writing idiomatic WebAssembly web applications.
+
+## Cool use cases and applications
+* [D3WASM - A Port of ID Tech 4/Doom 3 Engne To WebAssembly](http://www.continuation-labs.com/projects/d3wasm/) - Doom 3 running in the browser. [Gabriel Cuvillier](http://gabrielcuvillier.pro/) has ported Doom 3 to WebAssembly and has [built a demo](http://wasm.continuation-labs.com/d3demo/) you can run in the browser.
 
 ## Prominent community members
 * [Lin Clark](https://twitter.com/linclark) - Mozilla developer focusing on WebAssembly and Rust who has written many great articles linked above.
